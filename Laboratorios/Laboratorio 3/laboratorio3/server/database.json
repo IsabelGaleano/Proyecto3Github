@@ -1,0 +1,84 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 2,
+      "comentarios": "Comentario del jeje"
+    },
+    {
+      "id": 3,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 3,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 4,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 4,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 5,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 5,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 6,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 6,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 7,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 7,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 8,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 8,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 9,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 9,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "id": 10,
+      "nombre": "Practical Cotton Shoes",
+      "descripcion": "Sed error et ratione fugit ut sunt. Provident consequatur occaecati rerum nihil totam dolores. Eius natus excepturi debitis. Cum eum error.",
+      "fechaFabricacion": "09/06/2002",
+      "numeroParte": 10,
+      "comentarios": "Comentario del producto"
+    },
+    {
+      "nombre": "Nuevo producto",
+      "descripcion": "Para gatos",
+      "fechaFabricacion": "07/03/2022",
+      "numeroParte": "11",
+      "comentarios": "Es un muy buen producto",
+      "id": 11
+    }
+  ]
+}
